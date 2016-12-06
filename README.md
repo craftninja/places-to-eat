@@ -6,6 +6,7 @@ Places at which we like to eat :knife_fork_plate:
 
 This repository has places to eat for the following cities:
 
+* [Asheville, NC](/locations/Asheville)
 * [Aurora, CO](/locations/Aurora)
 * [Boulder, CO](/locations/boulder)
 * [Chicago, IL](/locations/Chicago)
@@ -16,7 +17,6 @@ This repository has places to eat for the following cities:
 * [Seattle, WA](/locations/Seattle)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
-* [Asheville, NC](/locations/Asheville)
 
 ## Contributing
 
