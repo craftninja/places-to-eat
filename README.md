@@ -16,6 +16,7 @@ This repository has places to eat for the following cities:
 * [Seattle, WA](/locations/Seattle)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
+* [Asheville, NC](/locations/Asheville)
 
 ## Contributing
 
