@@ -6,6 +6,7 @@ Places at which we like to eat :fork_and_knife:
 
 This repository has places to eat for the following cities:
 
+* [Asheville, NC](/locations/Asheville)
 * [Aurora, CO](/locations/Aurora)
 * [Boulder, CO](/locations/boulder)
 * [Chicago, IL](/locations/Chicago)
