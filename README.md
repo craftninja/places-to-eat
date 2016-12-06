@@ -16,6 +16,7 @@ This repository has places to eat for the following cities:
 * [San Francisco, CA](/locations/San Francisco)
 * [Seattle, WA](/locations/Seattle)
 * [Southlake, TX](/locations/Southlake)
+* [South Brunswick, NJ](/locations/South Brunswick)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
 
